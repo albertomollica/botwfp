@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5G3/2ulL3YO8xa42xfbJBhWknOHD6dqAuVsU/ck7JFnqLTWYnkbpWRBlXD9ToQByUoihv/yCLpxv4RcaG1poOg==",
+  "dgSpecHash": "hUvgic+5WSrlH7qsE5bali2LhN8tMUPsT7IEiaMSZu4Jx+uGGuFQzyBw7ePVEjUuraQLGHMkWudtxBZJcfdOmQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Alberto Mollica\\OneDrive - Proge-Software S.r.l\\Desktop\\Nuova cartella\\botwfp\\Bot\\bot\\QnABotAllFeatures.csproj",
+  "projectFilePath": "C:\\Users\\Alberto Mollica\\OneDrive - Proge-Software S.r.l\\Desktop\\Nuova cartella\\botwfp\\bot\\QnABotAllFeatures.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Alberto Mollica\\.nuget\\packages\\adaptiveexpressions\\4.15.1\\adaptiveexpressions.4.15.1.nupkg.sha512",
     "C:\\Users\\Alberto Mollica\\.nuget\\packages\\antlr4.runtime.standard\\4.8.0\\antlr4.runtime.standard.4.8.0.nupkg.sha512",
