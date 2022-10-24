@@ -1,0 +1,2 @@
+[config]
+SCM_SCRIPT_GENERATOR_ARGS=--aspNetCore "C:\Users\Alberto Mollica\OneDrive - Proge-Software S.r.l\Desktop\Nuova cartella\botwfp\bot.csproj"

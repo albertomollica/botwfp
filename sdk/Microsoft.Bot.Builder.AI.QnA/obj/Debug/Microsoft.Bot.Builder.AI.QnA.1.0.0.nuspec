@@ -5,7 +5,7 @@
     <version>1.0.0</version>
     <authors>Microsoft.Bot.Builder.AI.QnA</authors>
     <description>Classes for using QnA Maker Cognitive Service on the Microsoft Bot Builder SDK</description>
-    <repository type="git" commit="7196e641daf71ac41a419a6057372d3ff5a65607" />
+    <repository type="git" commit="6b99f2db8bd824e5747c6220c0918c1c371ba7ed" />
     <dependencies>
       <group targetFramework=".NETStandard2.1">
         <dependency id="AdaptiveExpressions" version="4.15.1" exclude="Build,Analyzers" />
@@ -17,10 +17,10 @@
     </dependencies>
   </metadata>
   <files>
-    <file src="C:\Users\Alberto Mollica\OneDrive - Proge-Software S.r.l\Desktop\3FSBot\3FSAzureBot\sdk\Microsoft.Bot.Builder.AI.QnA\bin\Debug\netstandard2.1\Microsoft.Bot.Builder.AI.QnA.dll" target="lib\netstandard2.1\Microsoft.Bot.Builder.AI.QnA.dll" />
-    <file src="C:\Users\Alberto Mollica\OneDrive - Proge-Software S.r.l\Desktop\3FSBot\3FSAzureBot\sdk\Microsoft.Bot.Builder.AI.QnA\bin\Debug\netstandard2.1\Microsoft.Bot.Builder.AI.QnA.xml" target="lib\netstandard2.1\Microsoft.Bot.Builder.AI.QnA.xml" />
-    <file src="C:\Users\Alberto Mollica\OneDrive - Proge-Software S.r.l\Desktop\3FSBot\3FSAzureBot\sdk\Microsoft.Bot.Builder.AI.QnA\Schemas\Microsoft.QnAMakerDialog.schema" target="content\Schemas\Microsoft.QnAMakerDialog.schema" />
-    <file src="C:\Users\Alberto Mollica\OneDrive - Proge-Software S.r.l\Desktop\3FSBot\3FSAzureBot\sdk\Microsoft.Bot.Builder.AI.QnA\Schemas\Microsoft.QnAMakerRecognizer.schema" target="content\Schemas\Microsoft.QnAMakerRecognizer.schema" />
-    <file src="C:\Users\Alberto Mollica\OneDrive - Proge-Software S.r.l\Desktop\3FSBot\3FSAzureBot\sdk\Microsoft.Bot.Builder.AI.QnA\Schemas\Microsoft.QnAMakerDialog.uischema" target="content\Schemas\Microsoft.QnAMakerDialog.uischema" />
+    <file src="C:\Users\Alberto Mollica\OneDrive - Proge-Software S.r.l\Desktop\Nuova cartella\botwfp\sdk\Microsoft.Bot.Builder.AI.QnA\bin\Debug\netstandard2.1\Microsoft.Bot.Builder.AI.QnA.dll" target="lib\netstandard2.1\Microsoft.Bot.Builder.AI.QnA.dll" />
+    <file src="C:\Users\Alberto Mollica\OneDrive - Proge-Software S.r.l\Desktop\Nuova cartella\botwfp\sdk\Microsoft.Bot.Builder.AI.QnA\bin\Debug\netstandard2.1\Microsoft.Bot.Builder.AI.QnA.xml" target="lib\netstandard2.1\Microsoft.Bot.Builder.AI.QnA.xml" />
+    <file src="C:\Users\Alberto Mollica\OneDrive - Proge-Software S.r.l\Desktop\Nuova cartella\botwfp\sdk\Microsoft.Bot.Builder.AI.QnA\Schemas\Microsoft.QnAMakerDialog.schema" target="content\Schemas\Microsoft.QnAMakerDialog.schema" />
+    <file src="C:\Users\Alberto Mollica\OneDrive - Proge-Software S.r.l\Desktop\Nuova cartella\botwfp\sdk\Microsoft.Bot.Builder.AI.QnA\Schemas\Microsoft.QnAMakerRecognizer.schema" target="content\Schemas\Microsoft.QnAMakerRecognizer.schema" />
+    <file src="C:\Users\Alberto Mollica\OneDrive - Proge-Software S.r.l\Desktop\Nuova cartella\botwfp\sdk\Microsoft.Bot.Builder.AI.QnA\Schemas\Microsoft.QnAMakerDialog.uischema" target="content\Schemas\Microsoft.QnAMakerDialog.uischema" />
   </files>
 </package>

@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyDescriptionAttribute("Classes for using QnA Maker Cognitive Service on the Microsoft Bot Builder SDK")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6b99f2db8bd824e5747c6220c0918c1c371ba7ed")]
 [assembly: System.Reflection.AssemblyProductAttribute("Microsoft.Bot.Builder.AI.QnA")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Microsoft.Bot.Builder.AI.QnA")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
