@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "F6XqKyWfP5PcnHJYNvFF93sfXIFn0LdLybTif3KvH74=",
+  "Source": "QnABotAllFeatures",
+  "BasePath": "_content/QnABotAllFeatures",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "QnABotAllFeatures\\wwwroot",
+      "Source": "QnABotAllFeatures",
+      "ContentRoot": "C:\\Users\\Alberto Mollica\\OneDrive - Proge-Software S.r.l\\Desktop\\bot3fs stuff\\3FSAzureBot\\bot\\wwwroot\\",
+      "BasePath": "_content/QnABotAllFeatures",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Alberto Mollica\\OneDrive - Proge-Software S.r.l\\Desktop\\bot3fs stuff\\3FSAzureBot\\bot\\wwwroot\\default.htm",
+      "SourceId": "QnABotAllFeatures",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Alberto Mollica\\OneDrive - Proge-Software S.r.l\\Desktop\\bot3fs stuff\\3FSAzureBot\\bot\\wwwroot\\",
+      "BasePath": "_content/QnABotAllFeatures",
+      "RelativePath": "default.htm",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\default.htm"
+    }
+  ]
+}
