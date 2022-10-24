@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "F6XqKyWfP5PcnHJYNvFF93sfXIFn0LdLybTif3KvH74=",
+  "Hash": "GlNtlPO7JD0Tuf7nTbUMxGmuAYwQVguqxULRN7DqbZo=",
   "Source": "QnABotAllFeatures",
   "BasePath": "_content/QnABotAllFeatures",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "QnABotAllFeatures\\wwwroot",
       "Source": "QnABotAllFeatures",
-      "ContentRoot": "C:\\Users\\Alberto Mollica\\OneDrive - Proge-Software S.r.l\\Desktop\\bot3fs stuff\\3FSAzureBot\\bot\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alberto Mollica\\OneDrive - Proge-Software S.r.l\\Desktop\\Nuova cartella\\botwfp\\bot\\wwwroot\\",
       "BasePath": "_content/QnABotAllFeatures",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\Alberto Mollica\\OneDrive - Proge-Software S.r.l\\Desktop\\bot3fs stuff\\3FSAzureBot\\bot\\wwwroot\\default.htm",
+      "Identity": "C:\\Users\\Alberto Mollica\\OneDrive - Proge-Software S.r.l\\Desktop\\Nuova cartella\\botwfp\\bot\\wwwroot\\default.htm",
       "SourceId": "QnABotAllFeatures",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alberto Mollica\\OneDrive - Proge-Software S.r.l\\Desktop\\bot3fs stuff\\3FSAzureBot\\bot\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alberto Mollica\\OneDrive - Proge-Software S.r.l\\Desktop\\Nuova cartella\\botwfp\\bot\\wwwroot\\",
       "BasePath": "_content/QnABotAllFeatures",
       "RelativePath": "default.htm",
       "AssetKind": "All",

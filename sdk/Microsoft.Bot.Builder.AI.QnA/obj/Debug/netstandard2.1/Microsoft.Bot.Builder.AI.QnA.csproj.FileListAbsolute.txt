@@ -10,3 +10,15 @@ C:\Users\Alberto Mollica\OneDrive - Proge-Software S.r.l\Desktop\3FSBot\3FSAzure
 C:\Users\Alberto Mollica\OneDrive - Proge-Software S.r.l\Desktop\3FSBot\3FSAzureBot\sdk\Microsoft.Bot.Builder.AI.QnA\obj\Debug\netstandard2.1\Microsoft.Bot.Builder.AI.QnA.sourcelink.json
 C:\Users\Alberto Mollica\OneDrive - Proge-Software S.r.l\Desktop\3FSBot\3FSAzureBot\sdk\Microsoft.Bot.Builder.AI.QnA\obj\Debug\netstandard2.1\Microsoft.Bot.Builder.AI.QnA.dll
 C:\Users\Alberto Mollica\OneDrive - Proge-Software S.r.l\Desktop\3FSBot\3FSAzureBot\sdk\Microsoft.Bot.Builder.AI.QnA\obj\Debug\netstandard2.1\Microsoft.Bot.Builder.AI.QnA.pdb
+C:\Users\Alberto Mollica\OneDrive - Proge-Software S.r.l\Desktop\Nuova cartella\botwfp\sdk\Microsoft.Bot.Builder.AI.QnA\bin\Debug\netstandard2.1\Microsoft.Bot.Builder.AI.QnA.deps.json
+C:\Users\Alberto Mollica\OneDrive - Proge-Software S.r.l\Desktop\Nuova cartella\botwfp\sdk\Microsoft.Bot.Builder.AI.QnA\bin\Debug\netstandard2.1\Microsoft.Bot.Builder.AI.QnA.dll
+C:\Users\Alberto Mollica\OneDrive - Proge-Software S.r.l\Desktop\Nuova cartella\botwfp\sdk\Microsoft.Bot.Builder.AI.QnA\bin\Debug\netstandard2.1\Microsoft.Bot.Builder.AI.QnA.pdb
+C:\Users\Alberto Mollica\OneDrive - Proge-Software S.r.l\Desktop\Nuova cartella\botwfp\sdk\Microsoft.Bot.Builder.AI.QnA\bin\Debug\netstandard2.1\Microsoft.Bot.Builder.AI.QnA.xml
+C:\Users\Alberto Mollica\OneDrive - Proge-Software S.r.l\Desktop\Nuova cartella\botwfp\sdk\Microsoft.Bot.Builder.AI.QnA\obj\Debug\netstandard2.1\Microsoft.Bot.Builder.AI.QnA.csproj.AssemblyReference.cache
+C:\Users\Alberto Mollica\OneDrive - Proge-Software S.r.l\Desktop\Nuova cartella\botwfp\sdk\Microsoft.Bot.Builder.AI.QnA\obj\Debug\netstandard2.1\Microsoft.Bot.Builder.AI.QnA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alberto Mollica\OneDrive - Proge-Software S.r.l\Desktop\Nuova cartella\botwfp\sdk\Microsoft.Bot.Builder.AI.QnA\obj\Debug\netstandard2.1\Microsoft.Bot.Builder.AI.QnA.AssemblyInfoInputs.cache
+C:\Users\Alberto Mollica\OneDrive - Proge-Software S.r.l\Desktop\Nuova cartella\botwfp\sdk\Microsoft.Bot.Builder.AI.QnA\obj\Debug\netstandard2.1\Microsoft.Bot.Builder.AI.QnA.AssemblyInfo.cs
+C:\Users\Alberto Mollica\OneDrive - Proge-Software S.r.l\Desktop\Nuova cartella\botwfp\sdk\Microsoft.Bot.Builder.AI.QnA\obj\Debug\netstandard2.1\Microsoft.Bot.Builder.AI.QnA.csproj.CoreCompileInputs.cache
+C:\Users\Alberto Mollica\OneDrive - Proge-Software S.r.l\Desktop\Nuova cartella\botwfp\sdk\Microsoft.Bot.Builder.AI.QnA\obj\Debug\netstandard2.1\Microsoft.Bot.Builder.AI.QnA.sourcelink.json
+C:\Users\Alberto Mollica\OneDrive - Proge-Software S.r.l\Desktop\Nuova cartella\botwfp\sdk\Microsoft.Bot.Builder.AI.QnA\obj\Debug\netstandard2.1\Microsoft.Bot.Builder.AI.QnA.dll
+C:\Users\Alberto Mollica\OneDrive - Proge-Software S.r.l\Desktop\Nuova cartella\botwfp\sdk\Microsoft.Bot.Builder.AI.QnA\obj\Debug\netstandard2.1\Microsoft.Bot.Builder.AI.QnA.pdb
