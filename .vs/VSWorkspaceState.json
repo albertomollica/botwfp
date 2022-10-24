@@ -1,8 +1,8 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Bot"
+    "\\bot"
   ],
-  "SelectedNode": "\\Bot\\QnABotAllFeatures.sln",
+  "SelectedNode": "\\bot\\BotServices.cs",
   "PreviewInSolutionExplorer": false
 }
