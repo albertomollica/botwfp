@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Alberto Mollica\\OneDrive - Proge-Software S.r.l\\Desktop\\bot3fs stuff\\3FSAzureBot\\sdk\\Microsoft.Bot.Builder.AI.QnA\\Microsoft.Bot.Builder.AI.QnA.csproj": {}
+    "C:\\Users\\Alberto Mollica\\OneDrive - Proge-Software S.r.l\\Desktop\\Nuova cartella\\botwfp\\Bot\\sdk\\Microsoft.Bot.Builder.AI.QnA\\Microsoft.Bot.Builder.AI.QnA.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Alberto Mollica\\OneDrive - Proge-Software S.r.l\\Desktop\\bot3fs stuff\\3FSAzureBot\\sdk\\Microsoft.Bot.Builder.AI.QnA\\Microsoft.Bot.Builder.AI.QnA.csproj": {
+    "C:\\Users\\Alberto Mollica\\OneDrive - Proge-Software S.r.l\\Desktop\\Nuova cartella\\botwfp\\Bot\\sdk\\Microsoft.Bot.Builder.AI.QnA\\Microsoft.Bot.Builder.AI.QnA.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Alberto Mollica\\OneDrive - Proge-Software S.r.l\\Desktop\\bot3fs stuff\\3FSAzureBot\\sdk\\Microsoft.Bot.Builder.AI.QnA\\Microsoft.Bot.Builder.AI.QnA.csproj",
+        "projectUniqueName": "C:\\Users\\Alberto Mollica\\OneDrive - Proge-Software S.r.l\\Desktop\\Nuova cartella\\botwfp\\Bot\\sdk\\Microsoft.Bot.Builder.AI.QnA\\Microsoft.Bot.Builder.AI.QnA.csproj",
         "projectName": "Microsoft.Bot.Builder.AI.QnA",
-        "projectPath": "C:\\Users\\Alberto Mollica\\OneDrive - Proge-Software S.r.l\\Desktop\\bot3fs stuff\\3FSAzureBot\\sdk\\Microsoft.Bot.Builder.AI.QnA\\Microsoft.Bot.Builder.AI.QnA.csproj",
+        "projectPath": "C:\\Users\\Alberto Mollica\\OneDrive - Proge-Software S.r.l\\Desktop\\Nuova cartella\\botwfp\\Bot\\sdk\\Microsoft.Bot.Builder.AI.QnA\\Microsoft.Bot.Builder.AI.QnA.csproj",
         "packagesPath": "C:\\Users\\Alberto Mollica\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Alberto Mollica\\OneDrive - Proge-Software S.r.l\\Desktop\\bot3fs stuff\\3FSAzureBot\\sdk\\Microsoft.Bot.Builder.AI.QnA\\obj\\",
+        "outputPath": "C:\\Users\\Alberto Mollica\\OneDrive - Proge-Software S.r.l\\Desktop\\Nuova cartella\\botwfp\\Bot\\sdk\\Microsoft.Bot.Builder.AI.QnA\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Alberto Mollica\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -82,7 +82,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.110\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.305\\RuntimeIdentifierGraph.json"
         }
       }
     }

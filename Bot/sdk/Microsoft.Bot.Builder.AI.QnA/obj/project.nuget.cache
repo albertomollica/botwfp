@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NhM5Mx/qKoxBHSfPLC2+EPem1wvxLXvSqF19USNSJPhEwh+Z6yGeb87t0RyiGexns1ilRjrWqszxompIjiaGIA==",
+  "dgSpecHash": "GOFU+m8ilHaFfhdSM+Nv+BUpWQhpbRcgrtCOo0nplP5vaIQBFUTOI6xFQ/iUY8ENoN810+QNMQWghdXxjkm0dQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Alberto Mollica\\OneDrive - Proge-Software S.r.l\\Desktop\\bot3fs stuff\\3FSAzureBot\\sdk\\Microsoft.Bot.Builder.AI.QnA\\Microsoft.Bot.Builder.AI.QnA.csproj",
+  "projectFilePath": "C:\\Users\\Alberto Mollica\\OneDrive - Proge-Software S.r.l\\Desktop\\Nuova cartella\\botwfp\\Bot\\sdk\\Microsoft.Bot.Builder.AI.QnA\\Microsoft.Bot.Builder.AI.QnA.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Alberto Mollica\\.nuget\\packages\\adaptiveexpressions\\4.15.1\\adaptiveexpressions.4.15.1.nupkg.sha512",
     "C:\\Users\\Alberto Mollica\\.nuget\\packages\\antlr4.runtime.standard\\4.8.0\\antlr4.runtime.standard.4.8.0.nupkg.sha512",
